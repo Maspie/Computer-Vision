@@ -1,4 +1,4 @@
-#Selfie Processing - 
+# Selfie Processing - 
 To achieve the final processed image, I applied the following steps:
  1. Face Smoothing: Detected and smoothed the facial region using a bilateral filter.
  2. Sharpening: Enhanced the image clarity through unsharpmasking.
